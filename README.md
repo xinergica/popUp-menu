@@ -2,8 +2,8 @@
 very basic popUp easy to manage
 
 
-
-![GitHub Logo](/PopUp-menu.png | width=100)
+<img src="PopUp-menu.png" alt="drawing" width="400"/>
+<!-- ![GitHub](/PopUp-menu.png =10x) -->
 <!-- # Format: ![Alt Text](url) -->
 
 
@@ -11,7 +11,8 @@ Developers, in general and web developers in particular, tend not to make use of
 They should! Especially when developing intranet or desktop applications.<br>
 The below image shows the popUp of the 'GitHub desktop' application, which believe or not is an HTML page (as shown by the right panel: 'Developer tools').
 
-![GitHub Logo](/gitHub-desktop.F12.png | width=100)
+<img src="gitHub-desktop.F12.png" alt="drawing" width="400"/>
+<!-- ![GitHub](/gitHub-desktop.F12.png) -->
 
 ```javascript
 function fancyAlert(arg) {
