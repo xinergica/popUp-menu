@@ -2,7 +2,7 @@
 
 
 # popUp-menu
-This project provides a js 'engine' to manage a one layer popUp menu.<br> 
+This project provides a js 'engine' to manage a one level popUp menu.<br> 
 <br>
 One important feature, to improve the 'user experience', is the permanence of the menu for a little while after the mouse left (accidentally) it.<br> 
 <br>
